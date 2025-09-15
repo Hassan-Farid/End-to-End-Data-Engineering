@@ -1,3 +1,2 @@
-./databases/db_theory/src_images/*.png
+/databases/db_theory/src_images/*.png
 
-.gitignore
