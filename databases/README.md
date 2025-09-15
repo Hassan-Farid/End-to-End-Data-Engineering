@@ -16,8 +16,8 @@ This section of the repository is structured as follows:
 - Practical DBMS: In this part, we will be looking at some practical DBMS systems and how they handle or process various things under the hood. This part will built on top of the theoretical foundations covered in the theory part of this section. Following are the DBMS systems we will be taking a look at:
     - Oracle (Enterprise Relational DBMS)
     - Postgres (Row-oriented Object-oriented Relational DBMS)
-    - ClickHouse (Column-oriented Relational DBMS)
+    - DuckDB (Column-oriented Relational DBMS)
     - Redis (NoSQL In-memory Key-value DBMS)
     - MongoDB (NoSQL Document-oriented DBMS)
     - Neo4j (NoSQL Graph-oriented DBMS)
-    - Weaviate (NoSQL Vector Databases)
+    - Weaviate (NoSQL Vector Database)
