@@ -1,7 +1,7 @@
 ## Relational Model
 Relational Model is a design paradigm used for database design which treats the contents of a databases as a set of relations, each of which is a tabular structure that stores a set of records (each representing a particular instance of the relation), with each record having a same set of fields (each representing some attribute of the relation)
 
-This particular model was introduced by E.F.Codd back in 1970 and became the basis of the commonly-used relational DBMS and SQL query language. 
+This particular model was introduced by E.F.Codd back in 1970 and became the basis of the commonly-used relational DBMS and SQL query language implementation.
 
 As an example, assume that you have done a lot of expenditures for the day and want to keep track of your expenses. There can be multiple ways to document this, but one maintainable way that you think of is to create a criss-cross table to note down your entries. You draw something like the following:
 
